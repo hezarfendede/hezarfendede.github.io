@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://hezarfendede.github.io"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
